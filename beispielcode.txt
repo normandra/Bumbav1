@@ -1,6 +1,0 @@
-if blab la t
-reudfs df
-
-Ahh, ich glaube jetzt verstehe ich, wie das hier funktioniert. Sobald ich das hier geschrieben habe, muss ich einen Pull request machen oder so...
-
-So okay, was dann? hmm
