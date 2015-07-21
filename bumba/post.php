@@ -159,7 +159,7 @@ while($r = $statement->fetch()) {
 							</div>
 						</div>
 						<div class="form-group-btn">
-							<button class="btn btn-blue waves-button waves-light waves-effect" type="submit">Post</button>
+							<button class="btn btn-blue waves-button waves-light waves-effect" type="submit" onClick="window.location.reload()">Post</button>
 							<button class="btn waves-button waves-effect" type="button">Cancel</button>
 						</div>
 					</fieldset>
