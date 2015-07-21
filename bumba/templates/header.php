@@ -44,7 +44,7 @@
         </a>
       </li>
     </ul>
-    <a class="header-logo" href="index.html">Bumba</a>
+    <a class="header-logo" href="index.php">Bumba</a>
     <ul class="nav nav-list pull-right">
       <li>
         <a data-toggle="menu" href="#profile">
@@ -58,7 +58,7 @@
     <div class="menu-scroll">
       <div class="menu-wrap">
         <div class="menu-content">
-          <a class="menu-logo" href="index.html">Material</a>
+          <a class="menu-logo" href="index.php">Material</a>
           <ul class="nav">
             <li class="active">
               <a href="ui-card.html">Cards</a>
