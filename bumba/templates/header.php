@@ -58,7 +58,7 @@
     <div class="menu-scroll">
       <div class="menu-wrap">
         <div class="menu-content">
-          <a class="menu-logo" href="index.php">Material</a>
+          <a class="menu-logo" href="index.php">Bumba</a>
           <ul class="nav">
             <li class="active">
               <a href="ui-card.html">Cards</a>
@@ -68,21 +68,6 @@
             </li>
             <li>
               <a href="ui-dropdown.html">Dropdowns</a>
-            </li>
-            <li>
-              <a href="ui-modal.html">Modals &amp; Toasts</a>
-            </li>
-            <li>
-              <a href="ui-nav.html">Navs</a>
-            </li>
-            <li>
-              <a href="ui-progress.html">Progress Bars</a>
-            </li>
-            <li>
-              <a href="ui-tab.html">Tabs</a>
-            </li>
-            <li>
-              <a href="ui-tile.html">Tiles</a>
             </li>
           </ul>
           <hr>
@@ -120,15 +105,6 @@
                 </li>
                 <li>
                   <a href="page-palette-green.html">Green Palette</a>
-                </li>
-                <li>
-                  <a href="page-palette-purple.html">Purple Palette</a>
-                </li>
-                <li>
-                  <a href="page-palette-red.html">Red Palette</a>
-                </li>
-                <li>
-                  <a href="page-palette-yellow.html">Yellow Palette</a>
                 </li>
               </ul>
             </li>
