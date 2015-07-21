@@ -1,12 +1,6 @@
-<?php require_once('../bumba/config/setup.php');?>
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Bumba</title>
-		<?php include('../bumba/templates/header.php');?>
-	</head>
+<?php require_once('config/setup.php');?>
+<?php include('templates/header.php');?>
 	
-	<body>
 		<div class="container">
 			<?php
         if(isset($_GET['id'])){

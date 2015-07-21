@@ -1,10 +1,5 @@
 <?php require_once('../config/setup.php');?>
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Bumba</title>
-		<?php include('../templates/header.php');?>
-	</head>
+<?php include('../templates/header.php');?>
 	
 	<body>
 		<div class="container">
